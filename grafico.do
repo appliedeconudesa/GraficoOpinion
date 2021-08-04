@@ -1,7 +1,7 @@
 
 clear
 
-cd ""
+cd "C:\\Users\\Tomas\\Desktop\\GraficoOpinion"
 
 use opinionargentina.dta
 
